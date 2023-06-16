@@ -3,7 +3,7 @@
 const imagesItems = document.querySelectorAll('.home__item');
 const homeImage = document.querySelector('.home__image');
 
-const images = ['asstes/images/blak_4.jpg', 'asstes/images/blak_3.jpg', 'asstes/images/blak.jpg'];
+const images = ['asstes/images/blak_4.webp', 'asstes/images/blak_3.webp', 'asstes/images/blak.webp'];
 
 const changeImage = index => {
   console.log(index);
