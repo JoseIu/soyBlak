@@ -110,7 +110,8 @@ body {
   column-gap: 1em;
 }
 .home__buttom:hover {
-  transform: scale(0.9);
+  background-color: #fff;
+  color: #222;
 }
 .home__buttom-arrow {
   width: 2em;
