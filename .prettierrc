@@ -4,6 +4,6 @@
   "trailingComma": "none",
   "arrowParens": "avoid",
 
-  "printWidth": 115,
+  "printWidth": 150,
   "bracketSameLine": false
 }
